@@ -2,7 +2,7 @@
 
 ### **1. Introduction** 
 The **Sense of Smell (SoS) atlas** is a neuroimaging atlas specifically designed for studying the olfactory network. It provides a standardized reference for analyzing the brain regions and tracts involved in the sense of smell.
-This atlas is divided into two separate NIfTI (.nii.gz) files:
+This atlas is divided into two separate NIfTI (.nii.gz) files in MNI-125 space:
 - **Grey matter (GM) regions of interest (ROIs)**
 - **White matter (WM) tracts**
 The SoS Atlas facilitates the localization and study of structural differences in the olfactory network and can be used in various neuroimaging studies.

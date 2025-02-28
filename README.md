@@ -5,7 +5,7 @@
 2. [Atlas Contents](#atlas-contents)  
 3. [Installation & Download](#installation--download)
 4. [Citations](#citations)
-5. [Contact](#contact)  
+5. [Contact](#contact)
 
 
 ### **1. Introduction** 

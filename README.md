@@ -1,13 +1,5 @@
 # **Sense of Smell (SoS) Atlas** 
 
-### **Table of Contents**  
-1. [Introduction](#introduction)  
-2. [Atlas Contents](#atlas-contents)  
-3. [Installation & Download](#installation--download)
-4. [Citations](#citations)
-5. [Contact](#contact)
-
-
 ### **1. Introduction** 
 The **Sense of Smell (SoS) Atlas** is a neuroimaging atlas specifically designed for studying the olfactory network. It provides a standardized reference for analyzing the brain regions and tracts involved in the sense of smell.
 This atlas is divided into two separate NIfTI (.nii.gz) files:

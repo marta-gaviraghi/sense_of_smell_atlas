@@ -21,7 +21,8 @@ The repository contains the following key files:
 To use the SoS atlas, you can either download the files manually or clone this repository using Git:  
 
 ```bash
-git clone https://github.com/sense_of_smell_atlas.git
+git clone https://github.com/marta-gaviraghi/sense_of_smell_atlas.git
+
 ```
 
 Alternatively, download the individual NIfTI files from the repository.

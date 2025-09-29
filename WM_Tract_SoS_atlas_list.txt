@@ -1,0 +1,76 @@
+1	Ins R-BS
+2	OFC R-OFC L
+3	OFC R-BS
+4	AON L-OFC L
+5	PirC L-OFC L
+6	EC L-Amy L
+7	EC L-Thal L
+8	EC L-Hippo L
+9	EC L-BS
+10	Amy L-Thal L
+11	Amy L-Hypo L
+12	Amy L-OFC L
+13	Amy L-BS
+14	Thal L-Hippo L
+15	Thal L-Hypo L
+16	Thal L-Ins L
+17	Thal L-OFC L
+18	Hippo L-BS
+19	Hypo L-BS
+20	AON R-OFC R
+21	Ins L-BS
+22	OFC L-BS
+23	BS-Cb CrusI R
+24	BS-Cb VI R
+25	BS-Cb Crus II R
+26	BS-Cb VIII R
+27	BS-Cb IX R
+28	BS-DN R
+29	BS-Cb CrusI L
+30	BS-Cb VI L
+31	BS-Cb Crus II L
+32	BS-CB VIII L
+33	BS-Cb IX L
+34	BS-DN L
+35	Cb CrusI R-DN R
+36	Cb Crus II R-DN R
+37	Cb VIII R-DN R
+38	Cb IX R-DN R
+39	Cb Crus II L-DN L
+40	CB VIII L-DN L
+41	OT R-Amy R
+42	PirC R-OFC R
+43	PirC R-OFC L
+44	PirC R-Thal R
+45	EC R-BS
+46	EC R-Thal R
+47	EC R-Hippo R
+48	Amy R-OFC R
+49	Amy R-Amy L
+50	Amy R-Hypo R
+51	Thal R-OFC R
+52	Thal R-BS
+53	Hypo R-BS
+54	Ins R-OFC R
+55	Ins R-Thal L
+56	OT L-PirC L
+57	OT L-Thal L
+58	PirC L-Amy L
+59	PirC L-Thal L
+60	PirC L-Hypo L
+61	Hippo L-Ins L
+62	Ins L-OFC L
+63	OT R-PirC R
+64	OT R-Thal R
+65	OT R-Hypo R
+66	PirC R-EC R
+67	PirC R-Amy R
+68	PirC R-Hippo R
+69	PirC R-Hypo R
+70	Amy R-Thal L
+71	Thal R-Hippo L
+72	Thal R-Ins L
+73	Hippo R-Ins R
+74	Hippo R-Thal L
+75	Hippo R-Hippo L
+76	Hypo R-Hypo L

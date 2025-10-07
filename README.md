@@ -11,11 +11,15 @@ The SoS Atlas facilitates the localization and study of structural differences i
 ### **2. Atlas Contents**  
 The repository contains the following key files:  
 
-📁 **SoS_atlas/**  
+**SoS_atlas/**  
 ```
 ├── GM-ROI_SoS_atlas.nii.gz   # Grey matter regions of interest (ROIs)
+├── GM-ROI_SoS_atlas_list.txt #Labels for GM-ROI SoS atlas
 ├── WM-tract_SoS_atlas.nii.gz  # White matter tracts
+├── WM-Tract_SoS_atlas_list.txt #Labels for WM-Tract SoS atlas
 ├── README.md             # This documentation
+
+
 ```
 ### **3. Installation & Download**  
 To use the SoS atlas, you can either download the files manually or clone this repository using Git:  
@@ -28,8 +32,9 @@ git clone https://github.com/marta-gaviraghi/sense_of_smell_atlas.git
 Alternatively, download the individual NIfTI files from the repository.
 
 ### **4. Citations**  
-If you use the SoS atlas in your research, please cite:  
-*(to put DOI link)*  
+If you use the SoS atlas in your research, please cite the following paper: Gaviraghi, M., Lupi, E., Grosso, E. et al. “The Sense of Smell ( SoS ) Atlas: Its Creation and First Application to Investigate COVID ‐19 Related Anosmia With a Comprehensive Quantitative MRI Protocol.” Journal of Magnetic Resonance Imaging., 2025
+
+*https://doi.org/10.1002/jmri.70128*  
 
 ### **5. Contact**  
 For any questions or collaborations, feel free to reach out:  

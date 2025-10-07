@@ -22,7 +22,7 @@ The repository contains the following key files:
 
 ```
 ### **3. Installation & Download**  
-To use the SoS atlas, you can either download the files manually or clone this repository using Git:  
+To use the SoS atlas, you can clone this repository using Git:  
 
 ```bash
 git clone https://github.com/marta-gaviraghi/sense_of_smell_atlas.git

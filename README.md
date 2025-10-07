@@ -40,7 +40,7 @@ If you use the SoS atlas in your research, please cite the following paper: Gavi
 For any questions or collaborations, feel free to reach out:  
 📧 marta.gaviraghi01@universitadipavia.it 
 
-![Figura](Fig1.tif)
+![Figura](sense_of_smell_atlas/Fig1.tif)
 
 
 

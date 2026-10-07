@@ -38,7 +38,7 @@ If you use the SoS atlas in your research, please cite the following paper: Gavi
 
 ### **5. Contact**  
 For any questions or collaborations, feel free to reach out:  
-📧 marta.gaviraghi01@universitadipavia.it 
+📧 marta.gaviraghi@unipv.it 
 
 ![Figure](Figure2.png)
 
